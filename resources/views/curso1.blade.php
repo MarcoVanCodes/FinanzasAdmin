@@ -8,7 +8,7 @@
     <!-- Bienvenida -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container">
-            <h1 class="display-4">Curso de Educación Financiera</h1>
+            <h1 class="display-4">Curso para la Educación Financiera</h1>
             <p class="lead">Aprende a gestionar tus finanzas desde una edad temprana y construye un
                 futuro financiero sólido.</p>
         </div>
