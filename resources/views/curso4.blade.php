@@ -82,7 +82,7 @@
                 </div>
 
                 <div class="mb-4 border p-3 rounded">
-                    <h3 class="text-secondary">4.4 Uso Responsable del Crédito</h3>
+                    <h3 class="text-secondary">4.4 Uso Responsable del crédito</h3>
                     <p>El uso responsable del crédito ayuda a evitar problemas financieros y construir
                         un buen historial crediticio. Algunas recomendaciones incluyen:</p>
                     <ul>
@@ -100,7 +100,7 @@
                     <h3 class="text-secondary">Actividades Prácticas para el Módulo 4</h3>
                     <ul>
                         <li><strong>Análisis de Deudas:</strong> Revisar y analizar las deudas
-                            personales, calculando el costo real de cada una.</li>
+                            personales, calculando el costo real de cada deuda.</li>
                         <li><strong>Plan de Pago de Deudas:</strong> Crear un plan de pago basado en el
                             método de bola de nieve o avalancha.</li>
                         <li><strong>Simulación de Costo de Créditos:</strong> Comparar diferentes

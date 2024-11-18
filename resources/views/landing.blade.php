@@ -142,7 +142,7 @@
                     <p>En FinanzEdu, creemos que la educación financiera es clave para el éxito. Nos dedicamos a
                         empoderarte con herramientas para monitorear tus ingresos y gastos, mientras aprendes a tomar
                         decisiones informadas sobre tu dinero. </p>
-                    <p class="mb-4">Únete a nosotros y comienza a construir un futuro financiero más sólido hoy.</p>
+                    <p class="mb-4">Únete a nosotros y comienza a administrar un futuro financiero más sólido hoy.</p>
                     <p><i class="far fa-check-circle text-primary me-3"></i>Educación financiera de calidad</p>
                     <p><i class="far fa-check-circle text-primary me-3"></i>Monitoreo de gastos</p>
                     <p><i class="far fa-check-circle text-primary me-3"></i>Tablero interactivo</p>
