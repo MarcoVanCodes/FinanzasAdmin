@@ -62,7 +62,7 @@
                     <li>Se identifica el rango de ingresos en la tabla de ISR.</li>
                     <li>Se resta el límite inferior del rango a los ingresos totales.</li>
                     <li>El resultado se multiplica por el porcentaje sobre el excedente del límite inferior.</li>
-                    <li>A este resultado se le suma la cuota fija correspondiente al rango.</li>
+                    <li>Al esultado se le suma la cuota fija correspondiente al rango.</li>
                 </ol>
                 <p>La percepción efectiva es la cantidad que queda después de restar el ISR a los ingresos totales.</p>
                 <p>Es importante notar que esta calculadora proporciona una estimación y no toma en cuenta deducciones personales u otros factores que podrían afectar el cálculo final del ISR.</p>
