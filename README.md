@@ -52,3 +52,56 @@ En **FinanzEdu**, creemos que todos tienen el derecho de aprender a manejar sus 
 ![Histórico de gastos e ingresos](./imagesread/7.png)  
 *Consulta tus registros anteriores para un mejor control y planificación.*  
 
+---
+### 📝 Generación de planes financieros  
+
+Selecciona las categorías que prefieras, y FinanzEdu distribuirá automáticamente tu monto de la mejor manera posible.  
+
+![Generación de planes financieros](./imagesread/9.png)  
+*Optimiza tu presupuesto según tus necesidades y prioridades.*  
+
+---
+### 📚 Cursos de finanzas  
+
+Aprende sobre finanzas desde cero con cursos diseñados para enseñarte conceptos básicos, estrategias avanzadas y todo lo que necesitas para mejorar tu manejo del dinero.  
+
+![Cursos de Finanzas](./imagesread/8.png)  
+*Educación accesible para todos, desde principiantes hasta expertos.*  
+
+---
+### 💹 Calculadora de inversiones bancarias  
+
+Simula tus inversiones eligiendo entre las siguientes opciones:  
+1. **Plazo**: Define la duración de tu inversión según tus objetivos.  
+2. **Banco**: Escoge entre distintas entidades bancarias para comparar rendimientos.  
+3. **Monto**: Ingresa el capital que planeas invertir para obtener resultados personalizados.  
+
+![Calculadora de inversiones](./imagesread/10.png)  
+*Explora tus opciones de inversión de manera fácil y rápida.*  
+
+---
+### 🧮 Calculadora de ISR  
+
+Calcula el **Impuesto Sobre la Renta (ISR)** de un monto determinado de manera rápida y precisa. Solo ingresa tu monto y FinanzEdu hará los cálculos por ti.  
+
+![Calculadora de ISR](./imagesread/11.png)  
+*Determina el ISR correspondiente de acuerdo con tu ingreso.*  
+
+---
+---
+### ⚙️ Requisitos y despliegue  
+
+Este proyecto está desarrollado con **Laravel**. Para ejecutarlo correctamente, necesitas tener instalada una versión reciente de **PHP**.
+
+#### Pasos para desplegarlo:
+1. Clona el repositorio a tu máquina local.
+2. Instala las dependencias de Laravel ejecutando:  
+   ```bash
+   composer install
+   ```
+    ```bash
+    php artisan serve
+    ```
+
+
+
