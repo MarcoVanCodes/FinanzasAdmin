@@ -27,5 +27,28 @@ En **FinanzEdu**, creemos que todos tienen el derecho de aprender a manejar sus 
 4. **Portabilidad**: Usa FinanzEdu en cualquier lugar, desde tu computadora o dispositivo móvil.  
 
 ---
+---
 
+## 📊 Dashboard  
+
+![Dashboard FinanzEdu](./imagesread/4.png)  
+*Visualiza tu progreso financiero de forma clara e intuitiva.*
+
+---
+---
+
+## 🛠️ Funcionalidades  
+
+### ➕ Registro de ingresos  
+![Registro de ingresos](./imagesread/5.png)  
+*Registra tus ingresos fácilmente a través de un formulario intuitivo.*  
+
+### ➖ Registro de gastos  
+![Registro de gastos](./imagesread/6.png)  
+*Controla tus gastos con un sistema claro y organizado.*  
+
+---
+### 📜 Histórico de gastos e ingresos  
+![Histórico de gastos e ingresos](./imagesread/7.png)  
+*Consulta tus registros anteriores para un mejor control y planificación.*  
 
